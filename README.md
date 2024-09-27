@@ -15,7 +15,7 @@
 ## <img width="30" height="30" src="https://img.icons8.com/bubbles/100/about.png" alt="about"/> Sobre o Projeto ##
 
 🔸 MVP_Fullstack
-Projeto Final de desenvolvimento de uma API Backend (Python + Flask) para o Curso de Desenvolvimento Full Stack - Pós Graduação - PUC RJ
+Projeto Final de desenvolvimento de uma API Backend (Python + Flask) para cadastro, busca e edição de imóveis, bem como de usuários (cadastro, busca e edição de User). Projeto final para o Curso de Desenvolvimento Full Stack - Pós Graduação - PUC RJ
 
 ## <img width="30" height="30" src="https://img.icons8.com/bubbles/100/screenshot.png" alt="screenshot"/> Screenshots ## 
 
